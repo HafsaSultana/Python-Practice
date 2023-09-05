@@ -1,5 +1,8 @@
-# Python-Practice
-coding in python 
+# Python-Practice: Coding in Python 
+# Codeforces -
+Solved some Codeforces problems.
+# Leetcode -
+Solved some Leetcode problems.
 
 # Python Folder -
 For the OOP section, I practiced these topics -
