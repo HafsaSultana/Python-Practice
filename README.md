@@ -1,8 +1,8 @@
 # Python-Practice: Coding in Python 
 # Codeforces -
-Solved some Codeforces problems.
+Solved some Codeforces problems. Profile : https://codeforces.com/profile/hafsa20
 # Leetcode -
-Solved some Leetcode problems.
+Solved some Leetcode problems. Profile : https://leetcode.com/u/Hafsa20/
 
 # Python Folder -
 For the OOP section, I practiced these topics -
